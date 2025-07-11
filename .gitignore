@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MyLearning/CPP/.vs/CPP
+/MyLearning/CPP/CPP/x64/Debug
+/MyLearning/CPP/x64/Debug

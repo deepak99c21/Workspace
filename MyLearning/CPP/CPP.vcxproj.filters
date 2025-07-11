@@ -13,10 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\oopsTest">
+      <UniqueIdentifier>{e548e67a-f650-431a-af19-e4ea47b717e2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CPP.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HelloOOPS.cpp">
+      <Filter>Source Files\oopsTest</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
