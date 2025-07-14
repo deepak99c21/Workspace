@@ -24,5 +24,8 @@
     <ClCompile Include="HelloOOPS.cpp">
       <Filter>Source Files\oopsTest</Filter>
     </ClCompile>
+    <ClCompile Include="LambdaTest.cpp">
+      <Filter>Source Files\oopsTest</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
