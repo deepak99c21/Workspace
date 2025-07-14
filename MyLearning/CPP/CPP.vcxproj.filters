@@ -16,6 +16,12 @@
     <Filter Include="Source Files\oopsTest">
       <UniqueIdentifier>{e548e67a-f650-431a-af19-e4ea47b717e2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\STL">
+      <UniqueIdentifier>{4fb33ed3-11b9-4d44-9ca5-950912a6fa48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\STL\Chap5">
+      <UniqueIdentifier>{7a6711b8-bb01-4481-b8f9-0f4bed8b838e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CPP.cpp">
@@ -26,6 +32,12 @@
     </ClCompile>
     <ClCompile Include="LambdaTest.cpp">
       <Filter>Source Files\oopsTest</Filter>
+    </ClCompile>
+    <ClCompile Include="vectorlike.cpp">
+      <Filter>Source Files\oopsTest</Filter>
+    </ClCompile>
+    <ClCompile Include="HelloPairscpp.cpp">
+      <Filter>Source Files\STL\Chap5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
