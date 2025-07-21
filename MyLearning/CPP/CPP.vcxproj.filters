@@ -22,6 +22,9 @@
     <Filter Include="Source Files\STL\Chap5">
       <UniqueIdentifier>{7a6711b8-bb01-4481-b8f9-0f4bed8b838e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Learning_Lad">
+      <UniqueIdentifier>{dcf4f371-aeae-49b5-af27-b6691adf050e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CPP.cpp">
@@ -38,6 +41,9 @@
     </ClCompile>
     <ClCompile Include="HelloPairscpp.cpp">
       <Filter>Source Files\STL\Chap5</Filter>
+    </ClCompile>
+    <ClCompile Include="friend_func.cpp">
+      <Filter>Source Files\Learning_Lad</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
