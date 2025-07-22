@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\Workspace\\Workspace\\MyLearning\\ML_AI\\Ineuron_lect\\PythonApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02E926D9-A264-4DF6-81B8-43039F7428CF}|PythonApplication.pyproj|D:\\Workspace\\Workspace\\Workspace\\MyLearning\\ML_AI\\Ineuron_lect\\PythonApplication\\PythonApplication.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02E926D9-A264-4DF6-81B8-43039F7428CF}|PythonApplication.pyproj|solutionrelative:PythonApplication.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PythonApplication.py",
+              "DocumentMoniker": "D:\\Workspace\\Workspace\\Workspace\\MyLearning\\ML_AI\\Ineuron_lect\\PythonApplication\\PythonApplication.py",
+              "RelativeDocumentMoniker": "PythonApplication.py",
+              "ToolTip": "D:\\Workspace\\Workspace\\Workspace\\MyLearning\\ML_AI\\Ineuron_lect\\PythonApplication\\PythonApplication.py*",
+              "RelativeToolTip": "PythonApplication.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-22T11:08:03.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
